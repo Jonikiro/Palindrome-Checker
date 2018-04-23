@@ -1,0 +1,7 @@
+D:\C#\PalindromeChecker\PalindromeChecker\bin\Debug\PalindromeChecker.exe.config
+D:\C#\PalindromeChecker\PalindromeChecker\bin\Debug\PalindromeChecker.exe
+D:\C#\PalindromeChecker\PalindromeChecker\bin\Debug\PalindromeChecker.pdb
+D:\C#\PalindromeChecker\PalindromeChecker\obj\Debug\PalindromeChecker.csprojResolveAssemblyReference.cache
+D:\C#\PalindromeChecker\PalindromeChecker\obj\Debug\PalindromeChecker.csproj.CoreCompileInputs.cache
+D:\C#\PalindromeChecker\PalindromeChecker\obj\Debug\PalindromeChecker.exe
+D:\C#\PalindromeChecker\PalindromeChecker\obj\Debug\PalindromeChecker.pdb
